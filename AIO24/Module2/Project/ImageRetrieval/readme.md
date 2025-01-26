@@ -11,7 +11,7 @@ This is a small project focusing on **image retrieval**, a fundamental task in *
 - **Image Crawling**: Uses **web scraping** to collect images from **flickr.com** to expand the dataset.
 
 ## Dataset
-- The dataset consists of training and test images stored in structured directories (`data/train/` and `data/test/`).
+- The dataset consists of training and test images stored in structured directories (`data/train/` and `data/test/`). It can be downloaded in the notebook
 - Preprocessing includes resizing images and converting them to feature vectors.
 - Additional images are collected from **flickr.com** using web scraping techniques.
 
