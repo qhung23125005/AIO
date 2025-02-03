@@ -13,5 +13,6 @@ This repository serves as a **learning progress tracker** for the **AIO24** cour
 ## Course Modules (Progress Tracking)
 - **Module 1**: Introduction to Python (it is skipped due to my background in Computer Science) - [✔ Completed]
 - **Module 2**: Basic Linear Algebra, Statistics  - [✔ Completed]
-- **Module 3**: Basic Machine Learning algorithms and techniques - [✔ Completed] 
+- **Module 3**: Basic Machine Learning algorithms and techniques - [✔ Completed]
+- **Module 4**: Optimizations(Gradient descent, evolutionary algorithm,...) [✔ Completed]
 
