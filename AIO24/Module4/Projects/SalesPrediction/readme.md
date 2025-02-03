@@ -7,7 +7,7 @@ However, real-world data often follows **nonlinear patterns**, making **Linear R
 
 ---
 
-## **Linear Regression?**
+## **Linear Regression**
 Linear Regression is a fundamental statistical method used to model the relationship between an independent variable (**X**) and a dependent variable (**Y**) by fitting a straight-line equation:
 
 $$
