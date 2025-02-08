@@ -7,7 +7,7 @@ from visualizer import visualize_loss_acc
 from train_model import fit
 
 def main():
-    num_epochs = 300
+    num_epochs = 200
     lr = 0.01
     model = MLP(input_dims=784, hidden_dims=128, output_dims=10).to(device)
     criterion = nn.CrossEntropyLoss()
