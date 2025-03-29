@@ -1,2 +1,6 @@
+# Ignore dataset
 dataset/
+ImageSuperResolution.zip
+
+# Ignore model weights
 super_resolution.pt
