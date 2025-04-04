@@ -1,9 +1,12 @@
 # Ignore dataset
 dataset/
 datasets/
+data/
 ImageSuperResolution.zip
 
 # Ignore model weights
 super_resolution.pt
 inpainting.pt
+best_model.pt
 best_model.pth
+yolo.pth.tar
