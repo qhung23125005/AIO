@@ -3,6 +3,7 @@ dataset/
 datasets/
 data/
 ImageSuperResolution.zip
+run
 
 # Ignore model weights
 super_resolution.pt
@@ -10,3 +11,5 @@ inpainting.pt
 best_model.pt
 best_model.pth
 yolo.pth.tar
+yolo11x.pt
+
