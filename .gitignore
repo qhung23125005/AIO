@@ -4,6 +4,7 @@ datasets/
 data/
 ImageSuperResolution.zip
 run
+MACCROBAT2018
 
 # Ignore model weights
 super_resolution.pt
@@ -14,4 +15,5 @@ yolo.pth.tar
 yolo11x.pt
 yolov8s-world.pt
 results
+maccrobat_ner
 
