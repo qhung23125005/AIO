@@ -16,4 +16,6 @@ yolo11x.pt
 yolov8s-world.pt
 results
 maccrobat_ner
+rnn-en-vi-machine-translation
+transformer-en-vi-machine-translation
 
