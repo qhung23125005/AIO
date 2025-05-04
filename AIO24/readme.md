@@ -15,4 +15,8 @@ This repository serves as a **learning progress tracker** for the **AIO24** cour
 - **Module 2**: Basic Linear Algebra, Statistics  - [✔ Completed]
 - **Module 3**: Basic Machine Learning algorithms and techniques - [✔ Completed]
 - **Module 4**: Optimizations(Gradient descent, evolutionary algorithm,...) [✔ Completed]
+- **Module 5**: Introduction to Deep learning (Softmax regression, MLP,...) [✔ Completed]
+- **Module 6**: Basic Deep learning models (CNN, RNN, LSTM, Transformer,...) [✔ Completed]
+- **Module 7**: Computer Vision (Segmentation, object dectection,...) [✔ Completed]
+- **Module 8**: Natural Language Processing (POS Tagging, Machine translation,...) [✔ Completed]
 
